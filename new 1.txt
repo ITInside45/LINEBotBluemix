@@ -1,0 +1,7 @@
+{
+  "username": "98561853-e9cd-4685-97b9-889d3caff28d-bluemix",
+  "password": "6b2a74a6472ec460a541482ae802518c8ec799d2e7649d5cd201907571961ca3",
+  "host": "98561853-e9cd-4685-97b9-889d3caff28d-bluemix.cloudant.com",
+  "port": 443,
+  "url": "https://98561853-e9cd-4685-97b9-889d3caff28d-bluemix:6b2a74a6472ec460a541482ae802518c8ec799d2e7649d5cd201907571961ca3@98561853-e9cd-4685-97b9-889d3caff28d-bluemix.cloudant.com"
+}
